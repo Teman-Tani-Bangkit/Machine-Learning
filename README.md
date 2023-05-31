@@ -11,3 +11,7 @@ Our progress:
 - [x] Potato Disease Detection
 - [ ] Chilli Disease Detection
 - [x] Crop Recommendation System
+
+Not yet to do it:
+- Deploy the model
+- Integrate it with the Backend
